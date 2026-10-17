@@ -1,0 +1,75 @@
+{
+  "site_name": "Avik.dev",
+  "tagline": "AI agent projects and development portfolio",
+  "hero": {
+    "eyebrow": "// hi, I'm Avik",
+    "headline_before": "I build",
+    "headline_highlight": "AI agents",
+    "headline_after": "that make everyday tasks a little easier.",
+    "description": "During my internship I worked on a handful of AI agent projects — from a study planner to a meeting-notes assistant. This is a simple place to see what I built, what each project does, and what I learned along the way.",
+    "primary_button": "See my AI agents",
+    "secondary_button": "About me"
+  },
+  "projects_section": {
+    "eyebrow": "// MY AI AGENTS",
+    "description": "Four projects I worked on during my internship. Each one is a small agent designed to help with a real, everyday task."
+  },
+  "agents": [
+    {
+      "slug": "study-buddy",
+      "title": "Study Buddy Agent",
+      "description": "A friendly agent that helps students build study plans, break down assignments, and stay on track with reminders.",
+      "detail_description": "Study Buddy takes a class or assignment and turns it into a clear, day-by-day plan. It breaks big tasks into smaller steps, suggests how long each might take, and sends friendly reminders so nothing slips. The goal was to make studying feel less overwhelming and more manageable.",
+      "cover_image": "",
+      "highlights": ["Turns one request into a day-by-day plan", "Breaks big assignments into small steps", "Sends reminders to keep students on track"],
+      "screenshots": []
+    },
+    {
+      "slug": "finance-coach",
+      "title": "Finance Coach Agent",
+      "description": "An agent that explains personal finance in plain language — budgeting, saving, and simple trade-offs — without jargon.",
+      "detail_description": "Finance Coach helps make everyday money decisions more approachable by breaking down budgeting, savings goals, and simple financial questions into clear steps.",
+      "cover_image": "",
+      "highlights": ["Explains finance topics simply", "Helps organize budgeting decisions", "Breaks questions into actionable steps"],
+      "screenshots": []
+    },
+    {
+      "slug": "research-assistant",
+      "title": "Research Assistant Agent",
+      "description": "An agent that reads long articles and papers and returns short, organized summaries with the key points highlighted.",
+      "detail_description": "Research Assistant takes long-form research material and produces structured summaries to help readers find the important information faster.",
+      "cover_image": "",
+      "highlights": ["Summarizes long research documents", "Highlights the main takeaways", "Organizes information for quick review"],
+      "screenshots": []
+    },
+    {
+      "slug": "meeting-notes",
+      "title": "Meeting Notes Agent",
+      "description": "An agent that turns meeting audio into clean, organized notes with action items, so nothing important gets lost.",
+      "detail_description": "Meeting Notes processes recorded conversations and turns them into clear notes, useful summaries, and follow-up action items.",
+      "cover_image": "",
+      "highlights": ["Converts spoken audio into useful notes", "Highlights decisions and action items", "Makes follow-ups easier to track"],
+      "screenshots": []
+    }
+  ],
+  "about": {
+    "eyebrow": "// about me",
+    "heading": "About Me",
+    "intro": "I'm Avik, a student interested in artificial intelligence, computer science, and finance. During my internship I got the chance to build AI agents from scratch — designing how they think, writing the code, and testing them with real tasks. I love turning ideas into small things that actually work.",
+    "interest_card_title": "What I'm interested in",
+    "interest_card_text": "AI agents, software development, and how technology can help with personal finance.",
+    "build_card_title": "Why I build",
+    "build_card_text": "I enjoy the feeling of making something useful out of an idea, and learning a lot along the way.",
+    "future_card_title": "Where I'm headed",
+    "future_card_text": "I want to keep building AI that's genuinely helpful, and keep growing as a developer.",
+    "work_heading": "What I worked on",
+    "work_text": "During my internship, I built four AI agents. For each one I designed the conversation flow, wrote the logic, and connected it to the tools it needed — like speech-to-text or retrieval. I owned the projects end to end and tested them on real tasks to see what worked and what didn't.",
+    "learning_heading": "What I learned",
+    "learnings": ["How to turn a vague request into clear steps an agent can follow.", "Designing agents that use tools and explain their reasoning.", "Keeping summaries accurate with retrieval-augmented generation.", "Turning messy real-world input (like audio) into useful structure."],
+    "interests_heading": "Interests",
+    "interests": ["Artificial Intelligence", "Computer Science", "Software Development", "Finance", "Reading research papers", "Building side projects"],
+    "skills_heading": "Skills",
+    "skills": ["Python", "React", "TypeScript", "PyTorch", "LangChain", "FastAPI", "Prompt Design", "Git"]
+  },
+  "footer": "© Avik.dev"
+}
